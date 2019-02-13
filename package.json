@@ -7,7 +7,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "gitbook serve"
+    "start": "gitbook serve",
+    "postinstall": "gitbook install",
+    "build": "gitbook build"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
