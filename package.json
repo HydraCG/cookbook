@@ -1,0 +1,17 @@
+{
+  "name": "hydra-use-cases",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HydraCG/gitbook.git",
+  "author": "tpluscode <tpluscode@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-forkmegithub": "^2.2.0",
+    "gitbook-plugin-hints": "^1.0.2"
+  }
+}

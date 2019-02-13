@@ -1,0 +1,13 @@
+{
+  "title": "Hydra Community Group examples",
+  "plugins": [
+    "hints",
+    "forkmegithub"
+  ],
+  "pluginsConfig": {
+    "forkmegithub": {
+      "url": "https://github.com/hydracg/gitbook",
+      "color": "darkblue"
+    }
+  }
+}
