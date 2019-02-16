@@ -12,8 +12,6 @@
     "build": "gitbook build"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-forkmegithub": "^2.2.0",
-    "gitbook-plugin-hints": "^1.0.2"
+    "gitbook-cli": "^2.3.2"
   }
 }
