@@ -5,7 +5,7 @@
   * [2 API Documentation](api-documentation/2.api-documentation.md)
     * [2.1 Data structures](api-documentation/2.1.api-documentation-data-structures.md)
     * [2.2 User document](api-documentation/2.2.api-documentation-user-document.md)
-    * [2.3 Complete API Documentation](api-documentation/2.3.complete-api-documentation.md/2)
+    * [2.3 Complete API Documentation](api-documentation/2.3.complete-api-documentation.md)
   * [3 Obtaining events](drafts/3.obtaining-events.md)
     * [3.1 Extensions considerations](drafts/3.1.extensions-considerations.md)
     * [3.2 Pagination](drafts/3.2.pagination.md)
