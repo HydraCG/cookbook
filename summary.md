@@ -1,7 +1,7 @@
 * [Assumptions](assumptions.md)
 * Drafts
   * [1 Entrypoint](api-documentation/1.entry-point.md)
-  * [1.1 Security considerations](1.1.security-considerations.md)
+    * [1.1 Security considerations](1.1.security-considerations.md)
   * [2 API Documentation](api-documentation/2.api-documentation.md)
     * [2.1 Data structures](api-documentation/2.1.api-documentation-data-structures.md)
     * [2.2 User document](api-documentation/2.2.api-documentation-user-document.md)
