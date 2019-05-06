@@ -1,5 +1,7 @@
-* [Assumptions](assumptions.md)
+* [Movies API example](movies/0.index.md)
+  * [1 API entry point](movies/1.entry-point.md)
 * Drafts
+  * [Assumptions](assumptions.md)
   * [1 Entrypoint](api-documentation/1.entry-point.md)
     * [1.1 Security considerations](1.1.security-considerations.md)
   * [2 API Documentation](api-documentation/2.api-documentation.md)
