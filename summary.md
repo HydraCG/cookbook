@@ -2,6 +2,7 @@
   * [Movies](movies/0.index.md)
     * [1 API entry point](movies/1.entry-point.md)
     * [2 The JSON-LD context](movies/2.context.md)
+    * [3 The API documentation](movies/3.api-doc.md)
 * Drafts
   * [Assumptions](assumptions.md)
   * [1 Entrypoint](api-documentation/1.entry-point.md)
