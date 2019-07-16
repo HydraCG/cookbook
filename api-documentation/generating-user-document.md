@@ -40,8 +40,8 @@ It is common to create project documentations, including end point details.
 By providing detailed description of the entry point API, it is possible to 
 create automated documentation generators.
 
-Communication would look like those described in [this](./1.entry-point.md), 
-[this](./2.api-documentation.md) and [this](./2.1.api-documentation-data-structures.md)
+Communication would look like those described in [this](./entry-point.md), 
+[this](./overview.md) and [this](./data-structures.md)
 documents.
 
 Resulting documentation should contain these details:

@@ -129,4 +129,4 @@ Thus, an explicit statement should appear so the client can easily discover all 
 
 ### Security considerations
 
-Please refer to the [security considerations](../1.1.security-considerations.md)  document.
+Please refer to the [security considerations](../security-considerations.md)  document.
