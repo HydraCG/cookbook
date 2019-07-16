@@ -1,4 +1,4 @@
-# API documentation user document
+# Generating user document
 
 ## Story
 

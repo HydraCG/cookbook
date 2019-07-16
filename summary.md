@@ -6,12 +6,12 @@
     * [3 The API documentation](movies/3.api-doc.md)
     * [4 Create a movie](movies/4.create-movie.md)
 * Anatomy of API Documentation
-  * [Overview](api-documentation/2.api-documentation.md)
-  * [Entrypoint](api-documentation/1.entry-point.md)
-    * [Security considerations](1.1.security-considerations.md)
-  * [Data structures](api-documentation/2.1.api-documentation-data-structures.md)
-  * [Complete API Documentation](api-documentation/2.3.complete-api-documentation.md)
-  * [Generating user documentation](api-documentation/2.2.api-documentation-user-document.md)
+  * [Overview](api-documentation/overview.md)
+  * [Entrypoint](api-documentation/entry-point.md)
+    * [Security considerations](security-considerations.md)
+  * [Data structures](api-documentation/data-structures.md)
+  * [Complete API Documentation](api-documentation/complete-api-documentation.md)
+  * [Generating user documentation](api-documentation/generating-user-document.md)
 * Drafts
   * [3 Obtaining events](drafts/3.obtaining-events.md)
     * [3.1 Extensions considerations](drafts/3.1.extensions-considerations.md)
