@@ -2,16 +2,16 @@
 
 ## Story
 
-As a API consumer
-I want to be able to get an extensive description of the API's data structures and capabilities
-so that I can use API testing tools, make some client-side pre-computations or create a documentation out of it.
+> As a API consumer<br>
+> I want to be able to get an extensive description of the API's data structures and capabilities<br> 
+> so that I can use API testing tools, make some client-side pre-computations or create a documentation out of it.
 
 ## Details
 
 Hydra is an RDF vocabulary, thus it is enabled to provide extensive meta-data descriptions for both 
 payload embedded and entry-point level hypermedia controls. While it may be impossible to provide 
 as rich description as in case of the embedded description, still API documentation should be capable 
-to provide extensive details about API for various usages. These descriptions should cover:
+of providing extensive details about API for various usages. These descriptions should cover:
 - supported classes with:
   - name
   - description
