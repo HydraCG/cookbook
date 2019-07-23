@@ -1,15 +1,17 @@
-# API documentation user document
+# Generating user document
 
 ## Story
 
-As an application user
-I want to be presented with some user readable API documentation
-So I can link it to my project's documentation for business and project
+> As an application user<br>
+>I want to be presented with some user readable API documentation<br>
+>So I can link it to my project's documentation for business and project
 unrelated people.
 
-As an API consumer
-I want to be able to fetch entry-point's API documentation
-So I can build an nice looking API documentation.
+<!-- -->
+
+> As an API consumer<br>
+> I want to be able to fetch entry-point's API documentation<br>
+> So I can build an nice looking API documentation.
 
 
 ## Usage
@@ -38,8 +40,8 @@ It is common to create project documentations, including end point details.
 By providing detailed description of the entry point API, it is possible to 
 create automated documentation generators.
 
-Communication would look like those described in [this](./1.entry-point.md), 
-[this](./2.api-documentation.md) and [this](./2.1.api-documentation-data-structures.md)
+Communication would look like those described in [this](./entry-point.md), 
+[this](./overview.md) and [this](./data-structures.md)
 documents.
 
 Resulting documentation should contain these details:

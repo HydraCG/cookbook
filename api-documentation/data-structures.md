@@ -1,14 +1,16 @@
-# API documentation data structures
+# Data structures
 
 ## Story
 
-As an application user
-I want to be presented with some editor forms
-So I can fill it with my data.
+> As an application user<br>
+> I want to be presented with some editor forms<br>
+> So I can fill it with my data.
 
-As an API consumer
-I want to be able to fetch entry-point's supported classes
-So I can pre-generate views and forms.
+<!-- -->
+
+> As an API consumer<br>
+> I want to be able to fetch entry-point's supported classes<br>
+> So I can pre-generate views and forms.
 
 
 ## Usage
@@ -91,7 +93,7 @@ HTTP 200 OK
 }
 ```
 
-By composing both payload and context client can gain knowledge on how the data 
+By composing both payload and context client can gain knowledge on what the data 
 element structure looks like (i.e. properties, their names and data types).
 With this knowledge it is possible to i.e. generate generic HTML views for 
-editing or creating data items or to support dynamic IRI template composition.
+editing or creating data items, or to support dynamic IRI template composition.

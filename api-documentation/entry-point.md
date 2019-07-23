@@ -2,9 +2,9 @@
 
 ## Story
 
-As an application user
-I want my application to consume an entry point for the Web API by providing a base URL
-So I can start managing my events.
+> As an application user <br>
+> I want my application to consume an entry point for the Web API by providing a base URL<br>
+> So I can start managing my events.
 
 
 ## Usage
@@ -122,11 +122,11 @@ statement (in Turtle):
 [] a hydra:Operation .
 ```
 
-This is due to fact that Hydra Core Vocabulary provides an *rdfs:domain* for *method* .
-Unfortunately, many clients, especially browser based, won't use that process of entailment,
-thus an explicit statement should appear so the client can easily discover all the operations.
+This is due to fact that Hydra Core Vocabulary provides an *rdfs:domain* for *method*.
+Unfortunately many clients, especially browser based, won't use that process of entailment.
+Thus, an explicit statement should appear so the client can easily discover all the operations.
 
 
 ### Security considerations
 
-Please refer to the [security considerations](../1.1.security-considerations.md)  document.
+Please refer to the [security considerations](../security-considerations.md)  document.
