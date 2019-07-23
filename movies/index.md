@@ -7,7 +7,7 @@ The Hydra Movies API shows how a basic CRUD (Create, Read, Update, Delete) API c
 
 The following recipes decribe Hydra features that are used by the API.
 
-  * [1 API entry point](./1.entry-point.md)
-  * [2 The JSON-LD context](./2.context.md)
-  * [3 The API documentation](./3.api-doc.md)
-  * [4 Create a movie](./4.create-movie.md)
+  * [1 API entry point](./entry-point.md)
+  * [2 The JSON-LD context](./context.md)
+  * [3 The API documentation](./api-doc.md)
+  * [4 Create a movie](./create-movie.md)

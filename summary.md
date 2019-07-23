@@ -1,10 +1,10 @@
 * [Preamble](assumptions.md)
 * Examples
-  * [Movies](movies/0.index.md)
-    * [1 API entry point](movies/1.entry-point.md)
-    * [2 The JSON-LD context](movies/2.context.md)
-    * [3 The API documentation](movies/3.api-doc.md)
-    * [4 Create a movie](movies/4.create-movie.md)
+  * [Movies](movies/index.md)
+    * [1 API entry point](movies/entry-point.md)
+    * [2 The JSON-LD context](movies/context.md)
+    * [3 The API documentation](movies/api-doc.md)
+    * [4 Create a movie](movies/create-movie.md)
 * Anatomy of API Documentation
   * [Overview](api-documentation/overview.md)
   * [Entrypoint](api-documentation/entry-point.md)
