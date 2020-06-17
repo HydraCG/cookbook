@@ -1,3 +1,5 @@
+* API Documentation
+  * [SHACL](api-documentation/shacl.md)
 * Examples
   * [Movies](movies/index.md)
     * [1 API entry point](movies/entry-point.md)
