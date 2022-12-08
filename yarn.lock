@@ -961,16 +961,6 @@ gitbook-cli@^2.3.2:
     tmp "0.0.31"
     user-home "2.0.0"
 
-gitbook-plugin-forkmegithub@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-forkmegithub/-/gitbook-plugin-forkmegithub-2.2.0.tgz#b64b62a1402b099b1b48c396a9d5b0aba967c04a"
-  integrity sha1-tktioUArCZsbSMOWqdWwq6lnwEo=
-
-gitbook-plugin-hints@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-hints/-/gitbook-plugin-hints-1.0.2.tgz#e6589983e3ea84749f16dc631e282fafd45ec39b"
-  integrity sha1-5liZg+PqhHSfFtxjHigvr9Rew5s=
-
 github-url-from-git@~1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/github-url-from-git/-/github-url-from-git-1.4.0.tgz#285e6b520819001bde128674704379e4ff03e0de"
@@ -2277,9 +2267,9 @@ q@1.5.0:
   integrity sha1-3QG6ydBtMObyGa7LglPunr3DCPE=
 
 qs@~6.2.0:
-  version "6.2.3"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.2.3.tgz#1cfcb25c10a9b2b483053ff39f5dfc9233908cfe"
-  integrity sha1-HPyyXBCpsrSDBT/zn138kjOQjP4=
+  version "6.2.4"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.2.4.tgz#d90821bb8537cecc140e6c34f54ec76e54b39b22"
+  integrity sha512-E57gmgKXqDda+qWTkUJgIwgJICK7zgMfqZZopTRKZ6mY9gzLlmJN9EpXNnDrTxXFlOM/a+I28kJkF/60rqgnYw==
 
 qs@~6.4.0:
   version "6.4.0"
